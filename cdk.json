@@ -1,0 +1,3 @@
+{
+  "app": "npx ts-node bin/o-aws-lambda-version-cdk.ts"
+}
